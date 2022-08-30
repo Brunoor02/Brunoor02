@@ -1,5 +1,5 @@
-- ✿ codando apenas...
-- ✦ medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.
+- ✿ codando pra não me sentir triste
+- ✦ Só quero ter uma vida legal :D
 
 
  <a href="https://github.com/Brunoor02">

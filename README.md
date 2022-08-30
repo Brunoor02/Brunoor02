@@ -3,12 +3,12 @@
 
 
  <a href="https://github.com/Brunoor02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunoor02&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoor02&layout=compact&langs_count=7&theme=jolly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunoor02&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunoor02&layout=compact&langs_count=7&theme=blue-green">
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="jeni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="brunor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="brunor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="brunor-sass" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">

@@ -1,5 +1,5 @@
 - ✿ codando pra não me sentir triste
-- ✦ Só quero ter uma vida legal :D
+- ✦ Programar não é estudar e nem aplicar, é tipo injetar um html na veia :D
 
 
  <a href="https://github.com/Brunoor02">

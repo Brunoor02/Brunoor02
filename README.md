@@ -1,5 +1,5 @@
 - ✿ codando pra não me sentir triste
-- ✦ Programar não é estudar e nem aplicar, tu basicamente tem que respirar, comer e beber linhas de códigos :D
+- ✦ Programar é só sentir o código, não só estudar ele
 
 
  <a href="https://github.com/Brunoor02">
